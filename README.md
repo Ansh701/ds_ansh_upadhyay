@@ -49,36 +49,6 @@ crypto-risk-sentiment-analysis/
 
 ---
 
-## ⚙️ Setup & Usage
-
-1. **Install Dependencies**  
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-2. **Run the Notebook**  
-   ```bash
-   jupyter notebook notebooks/analysis.ipynb
-   ```
-
-3. **Generate Outputs**  
-   Plots and the PDF report will be saved automatically inside the `outputs/` folder.
-
----
-
-## 🧾 Requirements
-
-Example `requirements.txt`:
-
-```
-pandas  
-numpy  
-matplotlib  
-seaborn  
-scipy  
-```
-
----
 
 ## 🧩 Future Enhancements
 
